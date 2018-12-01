@@ -10,3 +10,4 @@ https://drive.google.com/open?id=1iXjlWETGRvmCJMn4nb3XGPKvDeF6KvEh
 
 3.Open the app, and take picture of any object. It uses Microsoft Image recognition to detect the object and explain as closely as possible
 
+[P.S. you mobile may decline as the application was developed with API22 in mind, and recently all androids are in API26. Try with API22 version phone]
